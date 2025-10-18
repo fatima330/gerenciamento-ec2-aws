@@ -17,7 +17,7 @@ O projeto também demonstra a capacidade de documentação organizada e comparti
 ---
 
 ## Diagrama do Ambiente EC2
-![Diagrama EC2](images/77939834-595b-4d29-ab28-2090aa051f10.png)
+![Diagrama EC2](images/DesafioDio.png)
 
 O diagrama representa a arquitetura e configuração das instâncias EC2 utilizadas no laboratório, incluindo:
 - Usuário final enviando arquivos para a instância
